@@ -1,0 +1,21 @@
+# requirements.txt
+
+# CrewAI core
+crewai[tools]
+
+# OpenAI & LangChain
+openai
+langchain
+langchain_openai
+langchain_community
+
+# Environment & search tools
+python-dotenv
+duckduckgo-search
+
+# Development & debugging tools (optional)
+ipykernel
+jupyter
+rich
+black
+flake8
