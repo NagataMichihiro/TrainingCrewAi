@@ -73,6 +73,11 @@ python examples/crew_sample.py
 - [LangChain](https://www.langchain.com/)
 - [OpenAI API](https://platform.openai.com/)
 
+## イントロダクション資料
+
+日本語でまとめたCrewAI紹介文書を `crewai_intro_ja.md` として用意しています。
+サンプルコードの概要や実行方法を簡潔に説明していますので、併せてご覧ください。
+
 ## 📌 補足
 
 このリポジトリは個人またはチームの学習目的で使用しており、商用利用や本番運用は想定していません。
